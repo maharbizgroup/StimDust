@@ -5,6 +5,7 @@ Code for StimDust. "A wireless millimetre-scale implantable neural stimulator wi
 MATLAB files used in data analysis are available in this repository.
 
 External dependencies:
+
 https://www.mathworks.com/matlabcentral/fileexchange/12606-1d-gaussian-lowpass-filter
 renamed to "fn_gausfiltcoef.m"
 
