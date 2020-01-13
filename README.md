@@ -1,6 +1,14 @@
 # StimDust
 Code for StimDust. "A wireless millimetre-scale implantable neural stimulator with ultrasonically powered bidirectional communication", as published in Nature Biomedical Engineering.
 
+This material is still being documented and curated. Please contact David Piech (piech@berkeley.edu) with any questions. Alternate contacts are: Benjamin Johnson, Rikky Muller, Michel Maharbiz, Jose Carmena.
+
+Contact Information:
+
+https://people.eecs.berkeley.edu/~rikky/Home.html
+https://maharbizgroup.wordpress.com/
+http://carmenalab.org/
+
 # Code
 MATLAB files used in data analysis are available in this repository.
 
