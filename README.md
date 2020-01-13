@@ -13,7 +13,7 @@ http://carmenalab.org/
 
 
 # Code
-MATLAB files used in data analysis are available in this repository.
+Code used in data analysis are available in this repository.
 
 External dependencies:
 
