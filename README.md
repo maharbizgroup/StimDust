@@ -3,12 +3,9 @@ Code for StimDust. "A wireless millimetre-scale implantable neural stimulator wi
 
 This material is still being documented and curated. Please contact David Piech (piech@berkeley.edu) with any questions. Alternate contacts are: Benjamin Johnson, Rikky Muller, Michel Maharbiz, Jose Carmena.
 
-Contact Information:
-
-https://people.eecs.berkeley.edu/~rikky/Home.html
-
-https://maharbizgroup.wordpress.com/
-
+Contact Information:  
+https://people.eecs.berkeley.edu/~rikky/Home.html  
+https://maharbizgroup.wordpress.com/  
 http://carmenalab.org/
 
 
@@ -21,10 +18,10 @@ Code used in data analysis are available in this repository.
 
 External dependencies:
 
-https://www.mathworks.com/matlabcentral/fileexchange/12606-1d-gaussian-lowpass-filter
+https://www.mathworks.com/matlabcentral/fileexchange/12606-1d-gaussian-lowpass-filter  
 renamed to "fn_gausfiltcoef.m"
 
-https://www.mathworks.com/matlabcentral/fileexchange/43700-cubehelix-colormap-generator-beautiful-and-versatile
+https://www.mathworks.com/matlabcentral/fileexchange/43700-cubehelix-colormap-generator-beautiful-and-versatile  
 "cubehelix.m"
 
 https://www.mathworks.com/matlabcentral/fileexchange/26311-raacampbell-shadederrorbar
